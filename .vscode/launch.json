@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
             "args": [
                 "task"
             ],
@@ -17,8 +23,14 @@
             "type": "node"
         },
         
-
-        
+        {
+            "name": "Streamlit Debug",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": ["run", "${file}"],
+            "console": "integratedTerminal"
+        },
         
         {
             "name": "Python Debugger: Current File",
