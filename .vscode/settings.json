@@ -1,5 +1,7 @@
 {
     "python.analysis.extraPaths": [
-        "./Main-Course/ist356M001SP25/5-web/5-3-"
+        "./Main-Course/ist356M001SP25/5-web/5-3-",
+        "./ist356M001SP25/5-web/5-3-",
+        "./ist356M001SP25/6-viz/6-1-"
     ]
 }
