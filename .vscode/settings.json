@@ -5,7 +5,7 @@
         "./ist356M001SP25/6-viz/6-1-"
     ],
     "python.testing.pytestArgs": [
-        "ist356M001SP25"
+        "intro-test-hackworth2026"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
