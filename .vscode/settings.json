@@ -3,5 +3,10 @@
         "./Main-Course/ist356M001SP25/5-web/5-3-",
         "./ist356M001SP25/5-web/5-3-",
         "./ist356M001SP25/6-viz/6-1-"
-    ]
+    ],
+    "python.testing.pytestArgs": [
+        "ist356M001SP25"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
