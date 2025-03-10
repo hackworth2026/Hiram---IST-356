@@ -40,18 +40,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal"
-        },
-    
-        {
-            "name": "Python: pytest",
-            "type": "debugpy",
-            "request": "launch",
-            "module": "pytest",
-            "program": "${file}",
-            "console": "integratedTerminal",
-            "justMyCode": false
         }
-
 
     ]
 }
